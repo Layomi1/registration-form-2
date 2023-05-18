@@ -1,7 +1,7 @@
 Learning :
--CRUD app using json-server.
-- how http requests works
--Authetication
+CRUD app using json-server,
+how http requests works,
+Authetication
 # RegistrationForm 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.8.
 
