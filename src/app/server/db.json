@@ -1,0 +1,22 @@
+{
+  "user": [
+    {
+      "id": "admin",
+      "name": "Admin User",
+      "email": "admin@yahoomail.com",
+      "isActive": true,
+      "password": "showMe234@",
+      "gender": "male",
+      "role": "admin"
+    },
+    {
+      "id": "junior",
+      "name": "Admin Junior",
+      "email": "junior@in.com",
+      "password": "teabag23@",
+      "gender": "Male",
+      "role": "pro",
+      "isActive": true
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "user": [
+    {
+      "id": "admin",
+      "name": "Admin User",
+      "email": "admin@yahoomail.com",
+      "isActive": true,
+      "password": "showMe234@",
+      "gender": "male",
+      "role": "admin"
+    },
+    {
+      "id": "abayomi",
+      "name": "aba law",
+      "email": "ab@in.com",
+      "password": "34erte",
+      "gender": "Male",
+      "role": "staff",
+      "isActive": true
+    },
+    {
+      "id": "omolop",
+      "name": "omol",
+      "email": "olo@in.com",
+      "password": "remarf",
+      "gender": "Male",
+      "role": "technician",
+      "isActive": false
+    },
+    {
+      "id": "junior",
+      "name": "Admin Junior",
+      "email": "junior@in.com",
+      "password": "teabag23@",
+      "gender": "Male",
+      "role": "student",
+      "isActive": true
+    },
+    {
+      "id": "peniel",
+      "name": "Peniel David",
+      "email": "pen@in.com",
+      "password": "pendav123#",
+      "gender": "Female",
+      "role": "intern",
+      "isActive": true
+    },
+    {
+      "id": "layomi",
+      "name": "ayo lawpre",
+      "email": "ayolawore@yahoomail.com",
+      "password": "Show234@",
+      "gender": "Male",
+      "role": "",
+      "isActive": true
+    },
+    {
+      "id": "toluwa",
+      "name": "tolu lawore",
+      "email": "tolu@yahoomail.com",
+      "password": "shoW234@",
+      "gender": "Male",
+      "role": "staff",
+      "isActive": true
+    },
+    {
+      "id": "opemipo",
+      "name": "opemipo lawal",
+      "email": "opemi@in.com",
+      "password": "opemi123#",
+      "gender": "Female",
+      "role": "",
+      "isActive": true
+    },
+    {
+      "id": "dolapo",
+      "name": "dolapo Idowu",
+      "email": "dolapo@in.com",
+      "password": "dolapo23@",
+      "gender": "Male",
+      "role": "",
+      "isActive": true
+    },
+    {
+      "id": "imaan",
+      "name": "imaan Korede",
+      "email": "imaan@yo.com",
+      "password": "imaan789>",
+      "gender": "Male",
+      "role": "student",
+      "isActive": true
+    }
+  ],
+  "students": [
+    {
+      "id": "dapo",
+      "name": "dapo lawore",
+      "email": "admin@yahoomail.com",
+      "isActive": false,
+      "password": "showMe234@",
+      "gender": "male",
+      "age": 13,
+      "class": "SS 1"
+    },
+    {
+      "id": "layo",
+      "name": "layo lawore",
+      "email": "layo@yahoomail.com",
+      "isActive": false,
+      "password": "showMe234@",
+      "gender": "male",
+      "age": 14,
+      "class": "SS 1"
+    },
+    {
+      "id": "layomi",
+      "name": "ayo lawore",
+      "email": "ayo@yahoomail.com",
+      "isActive": true,
+      "password": "Show234@",
+      "gender": "male",
+      "age": 12,
+      "class": "SS 2"
+    },
+    {
+      "id": "toluwa",
+      "name": "tolu lawore",
+      "email": "tolu@yahoomail.com",
+      "isActive": true,
+      "password": "shoW234@",
+      "gender": "male",
+      "age": 14,
+      "class": "SS 2"
+    }
+  ],
+  "role": [
+    {
+      "code": "staff",
+      "name": "quality-control"
+    },
+    {
+      "code": "student",
+      "name": "intern"
+    }
+  ]
+}
